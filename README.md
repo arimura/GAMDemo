@@ -1,0 +1,1 @@
+Please set the appropriate ad unit id in [ViewController](https://github.com/arimura/GAMDemo/blob/main/GAMDemo/ViewController.swift) and app id in [plist](https://github.com/arimura/GAMDemo/blob/main/GAMDemo/Info.plist).
